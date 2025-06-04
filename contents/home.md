@@ -1,20 +1,15 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![Sen](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/Senzhan9)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I am an incoming doctoral student in the Department of Electrical and Computer Engineering at George Mason University.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>zhangsen1005@outlook.com</code>  
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**George Mason University**, Ph.D. in Electrical and Computer Engineering (Incoming) 
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Shandong University**, Bachelor of Engineering in Computer Science and Technology (Sep.2021 – Jun.2025)  
+• GPA: 3.81/4.0
 
 #### Research Interests  
-XX, XX, XX, XX.
+Heterogeneous Computing, Hardware/Software Co-Design, Computer Architecthers... 
