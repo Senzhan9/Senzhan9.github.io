@@ -59,9 +59,15 @@ section .main-body{
     background: linear-gradient(45deg, #fcfcfc, #ffffff) !important;
 }
 
-.bg-gradient-primary-to-secondary-gray {
+/* .bg-gradient-primary-to-secondary-gray {
     background: linear-gradient(45deg, #f0f0f0, #f1f1f1) !important;
+} */
+
+.bg-gradient-primary-to-secondary-gray {
+    background: linear-gradient(45deg, #fafafa, #fdfdfd) !important;
 }
+
+
 
 
 
