@@ -1,3 +1,6 @@
+- *Computer Organization*, GMU 
+  Sep. 2025 – now 
+
 - *Computer Organization and Design*, SDU  
   Feb. 2025 – Jul. 2025  
 
